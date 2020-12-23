@@ -1,6 +1,6 @@
 ### Check-url-python
 
-> **This is the script check if website exists.Checking if the URL is correct.  If the connection to the website results in Tru then the file writes status_code_200.txt and status_code_400.txt otherwise.** 
+> **This is the script check if website exists.Checking if the URL is correct.  If the connection to the website results in True then the file writes status_code_200.txt and status_code_400.txt otherwise.** 
 
 
 
